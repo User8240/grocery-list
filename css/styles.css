@@ -1,0 +1,7 @@
+.outputText {
+  display: none;
+}
+
+#firstItem, #secondItem, #thirdItem {
+  display: block;
+}
